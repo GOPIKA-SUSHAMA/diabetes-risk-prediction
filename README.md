@@ -1,5 +1,6 @@
 # diabetes-risk-prediction
 A web app to predict the risk of diabetes based on health metrics.
+streamlit, diabetes, machine-learning, health, python, data-science
 # Diabetes Risk Prediction Using Streamlit
 
 This project uses the **Pima Indians Diabetes Dataset** to predict the risk of diabetes based on user input and visualize important features using **Streamlit**.
